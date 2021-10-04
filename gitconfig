@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ysun971@gmail.com
+	name = Yan Sun
